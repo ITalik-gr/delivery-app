@@ -69,6 +69,20 @@ const products = [
       'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/food/6cheese.png',
     price: 13.29,
   },
+  {
+    id: 11,
+    name: 'Deluxe',
+    image:
+      'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/food/deluxe.png',
+    price: 16.99,
+  },
+  {
+    id: 12,
+    name: 'BBQ Chicken',
+    image:
+      'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/food/veggie.png',
+    price: 12.89,
+  },
 ];
 
 export default products;
